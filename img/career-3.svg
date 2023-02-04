@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Main-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Carrers_01" transform="translate(-931.000000, -1035.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Group-27" transform="translate(829.000000, 983.000000)">
+                <g id="Group-18" transform="translate(49.000000, 0.000000)">
+                    <g id="Group-6" transform="translate(54.000000, 53.000000)">
+                        <g id="Group-2">
+                            <path d="M0,41.3333333 C0,52.7472381 9.2527619,62 20.6666667,62 L20.6666667,50.1904762 L0,29.5238095 L0,41.3333333 Z" id="Stroke-721"></path>
+                            <path d="M35.4285714,53.1428571 L35.4285714,32.4761905 C41.950381,32.4761905 47.2380952,27.1884762 47.2380952,20.6666667 L47.2380952,0 L38.3809524,7.38095238 L31,0 L23.6190476,7.38095238 L14.7619048,0 L14.7619048,20.6666667 C14.7619048,27.1884762 20.049619,32.4761905 26.5714286,32.4761905 L26.5714286,62 L41.3333333,62 C52.7472381,62 62,52.7472381 62,41.3333333 L62,29.5238095 L35.4285714,53.1428571 Z" id="Stroke-723"></path>
+                        </g>
+                        <g id="Group-3" transform="translate(27.000000, 8.000000)">
+                            <g id="Group-9">
+                                <path d="M8,3 L3.33333333,3 C1.49333333,3 0,4.456 0,6.25 C0,8.044 1.49333333,9.5 3.33333333,9.5 L4.66666667,9.5 C6.50666667,9.5 8,10.956 8,12.75 C8,14.544 6.50666667,16 4.66666667,16 L0,16" id="Stroke-131"></path>
+                                <line x1="4" y1="3" x2="4" y2="0" id="Stroke-133"></line>
+                                <line x1="4.5" y1="16" x2="4.5" y2="19" id="Stroke-135"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
